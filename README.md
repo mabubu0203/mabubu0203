@@ -9,16 +9,16 @@ I'm good at Java.
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript)]()
 
-:books:[Curriculum-Vitae](https://github.com/mabubu0203/Curriculum-Vitae)
-
+📝[Github Gist](https://gist.github.com/mabubu0203)  
+📖[Curriculum-Vitae](https://github.com/mabubu0203/Curriculum-Vitae)  
 
 <details>
 <summary>List Favorite Tools</summary>
   
-<!-- favorite_tool starts -->
+<!-- favorite_tools starts -->
 - IntelliJ IDEA
 - VisualStudioCode
 - SourceTree
-<!-- favorite_tool ends -->
+<!-- favorite_tools ends -->
 
 </details>
