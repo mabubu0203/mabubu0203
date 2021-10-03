@@ -11,12 +11,13 @@ I'm good at Java.
 
 📝[Github Gist](https://gist.github.com/mabubu0203)  
 📖[Curriculum-Vitae](https://github.com/mabubu0203/Curriculum-Vitae)  
+🔨[Release Notes](./CHANGELOG.md)
 
 <details>
 <summary>List Favorite Tools</summary>
   
 <!-- favorite_tools starts -->
-- IntelliJ IDEA
+- JetBrains All Products Pack
 - VisualStudioCode
 - SourceTree
 <!-- favorite_tools ends -->
