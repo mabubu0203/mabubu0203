@@ -5,9 +5,18 @@
 I'm a programmer living in Japan.  
 I'm good at Java.  
 
-[![mabubu0203's github stats](https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&count_private=true&show_icons=true&hide=contribs)]()
+# Github Stats
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript)]()
+<a href="">
+  <img align="left" 
+  src="https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&count_private=true&show_icons=true&hide=contribs" />
+</a>
+<a href="">
+  <img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript" />
+</a>
+
+# Info
 
 📝[Github Gist](https://gist.github.com/mabubu0203)  
 📖[Curriculum-Vitae](https://github.com/mabubu0203/Curriculum-Vitae)  
@@ -23,3 +32,20 @@ I'm good at Java.
 <!-- favorite_tools ends -->
 
 </details>
+
+# Accounts
+
+|key|value|
+|---|-----|
+|Github|[mabubu0203](https://github.com/mabubu0203)|
+|Qiita|[mabubu0203](https://qiita.com/mabubu0203)|
+|SpeakerDeck|[mabubu0203](https://speakerdeck.com/mabubu0203)|
+|Zenn|[mabubu0203](https://zenn.dev/mabubu0203)|
+
+# Personality
+
+|key|value|
+|---|-----|
+|16Person| |
+|エニアグラム| |
+|エムグラム| |
