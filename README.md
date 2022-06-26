@@ -6,16 +6,14 @@ I'm a programmer living in Japan.
 I'm good at Java.  
 
 # Github Stats
-
-<a href="">
-  <img align="left" 
-  src="https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&count_private=true&show_icons=true&hide=contribs" />
-</a>
-<a href="">
-  <img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript" />
-</a>
-
+  
+<img align="left" 
+     alt="mabubu0203's github stats" 
+     src="https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&count_private=true&show_icons=true&hide=contribs" />
+<img alt="Most Used Languages"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript" />  
+  
+  
 # Info
 
 📝[Github Gist](https://gist.github.com/mabubu0203)  
