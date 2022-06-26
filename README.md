@@ -16,10 +16,6 @@ I'm good at Java.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript" />
 </a>
 
-[![mabubu0203's github stats](https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&count_private=true&show_icons=true&hide=contribs)]()
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript)]()
-
 # Info
 
 📝[Github Gist](https://gist.github.com/mabubu0203)  
