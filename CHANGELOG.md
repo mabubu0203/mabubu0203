@@ -1,8 +1,14 @@
 # Change Log
 
-## [0.34.07]() ()
+## [0.34.09]() ()
 
+## [0.34.08](https://gist.github.com/mabubu0203/a17b73b92c04f40076e64b3cc02bf192) (2022-09-01)
 
+- release_notes_ver-0_34_08.md
+
+## [0.34.07](https://gist.github.com/mabubu0203/0e20c74cb75f58a7e28457316d9a0064) (2022-08-01)
+
+- release_notes_ver-0_34_07.md
 
 ## [0.34.06](https://gist.github.com/mabubu0203/943a57654c759f7e29ea7dc69b489eb3) (2022-07-03)
 
