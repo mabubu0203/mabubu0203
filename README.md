@@ -9,10 +9,9 @@ I'm good at Java.
   
 <img align="left" 
      alt="mabubu0203's github stats" 
-     src="https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&count_private=true&show_icons=true&hide=contribs" />
+     src="https://github-readme-stats.vercel.app/api?username=mabubu0203&theme=dracula&hide=contribs&show_icons=true&include_all_commits=true&count_private=true" />
 <img alt="Most Used Languages"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=XSLT,JavaScript" />  
-  
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=HTML&langs_count=6&layout=compact" />  
   
 # Info
 
