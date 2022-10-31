@@ -1,6 +1,10 @@
 # Change Log
 
-## [0.34.10]() ()
+## [0.34.11]() ()
+
+## [0.34.10](https://gist.github.com/mabubu0203/a4902acb305630175167235a466337e2) (2022-11-01)
+
+- release_notes_ver-0_34_10.md
 
 ## [0.34.09](https://gist.github.com/mabubu0203/f7c74ae6f54574865f266612cf18d111) (2022-10-02)
 
