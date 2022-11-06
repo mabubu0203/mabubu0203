@@ -44,5 +44,5 @@ I'm good at Java.
 |key|value|
 |---|-----|
 |16Person| |
-|エニアグラム| |
+|エニアグラム| [忠実家](https://16test.uranaino.net/enneagram/type6/)|
 |エムグラム| |
