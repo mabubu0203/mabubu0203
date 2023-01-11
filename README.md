@@ -4,6 +4,12 @@
 
 [![Github](https://img.shields.io/github/followers/mabubu0203?label=Follow&style=social)](https://github.com/mabubu0203)
 
+[![Followers](https://badgen.org/img/zenn/mabubu0203/followers?style=plastic)](https://zenn.dev/mabubu0203)
+[![Articles](https://badgen.org/img/zenn/mabubu0203/articles?style=plastic)](https://zenn.dev/mabubu0203)
+
+[![Followers](https://badgen.org/img/qiita/mabubu0203/followers?style=plastic)](https://qiita.com/mabubu0203)
+[![Articles](https://badgen.org/img/qiita/mabubu0203/articles?style=plastic)](https://qiita.com/mabubu0203)
+
 I'm a programmer living in Japan.  
 I'm good at Java.  
 
