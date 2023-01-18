@@ -18,17 +18,17 @@ I'm good at Java.
 <p align="left">   
   <img alt="mabubu0203's github stats"
        height="150"
-       src="https://github-readme-stats-sandy-nine.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs" />
+       src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs" />
   <img alt="Most Used Languages"
        hspace="15"
        height="150" 
-       src="https://github-readme-stats-sandy-nine.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=6&hide=HTML&layout=compact" />
+       src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=6&hide=HTML&layout=compact" />
 </p> 
 
 <p align="left"> 
   <img alt="mabubu0203's github trophy"
        height="150"
-       src="https://github-profile-trophy.vercel.app/?username=mabubu0203&theme=dracula&rank=SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15" />
+       src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=5&margin-w=15&margin-h=15" />
 </p>
   
 ## Info
