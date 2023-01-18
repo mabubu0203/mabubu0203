@@ -18,11 +18,11 @@ I'm good at Java.
 <p align="left">   
   <img alt="mabubu0203's github stats"
        height="150"
-       src="https://github-readme-stats.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs" />
+       src="https://github-readme-stats-sandy-nine.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs" />
   <img alt="Most Used Languages"
        hspace="15"
        height="150" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=HTML&layout=compact" />
+       src="https://github-readme-stats-sandy-nine.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=6&hide=HTML&layout=compact" />
 </p> 
 
 <p align="left"> 
