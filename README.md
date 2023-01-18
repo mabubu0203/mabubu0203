@@ -71,3 +71,9 @@ I'm good at Java.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mabubu0203/count.svg" />
 </p>
+
+
+## LAPRAS Score.
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
