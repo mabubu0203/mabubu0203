@@ -54,3 +54,10 @@ I'm good at Java.
 | 16Person     | [指揮官](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) |
 | エニアグラム | [忠実家](https://16test.uranaino.net/enneagram/type6/)                                |
 | エムグラム   |                                                                                       |
+
+## Counter
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mabubu0203/count.svg" />
+</p>
