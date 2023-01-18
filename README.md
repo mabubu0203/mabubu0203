@@ -13,14 +13,17 @@
 I'm a programmer living in Japan.  
 I'm good at Java.  
 
-## Github Stats
+## Readme Stats & Profile Trophy
   
 <img align="left"
      alt="mabubu0203's github stats"
+     height="150px"
      src="https://github-readme-stats.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs" />
 <img alt="Most Used Languages"
+     height="150px" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&hide=HTML&layout=compact" />  
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=mabubu0203&theme=dracula&rank=SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15)](https://github.com/mabubu0203/github-profile-trophy)
+
 ## Info
 
 📝[Github Gist](https://gist.github.com/mabubu0203)  
