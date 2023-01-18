@@ -13,6 +13,25 @@
 I'm a programmer living in Japan.  
 I'm good at Java.  
 
+## Counter
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mabubu0203/count.svg" />
+</p>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="img/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="img/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation"
+       height="150" 
+       src="img/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Readme Stats & Profile Trophy
   
 <p align="left">   
@@ -30,7 +49,7 @@ I'm good at Java.
        height="150"
        src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=5&margin-w=15&margin-h=15" />
 </p>
-  
+
 ## Info
 
 📝[Github Gist](https://gist.github.com/mabubu0203)  
@@ -57,6 +76,16 @@ I'm good at Java.
 | SpeakerDeck | [mabubu0203](https://speakerdeck.com/mabubu0203) |
 | Zenn        | [mabubu0203](https://zenn.dev/mabubu0203)        |
 
+<details>
+<summary>LAPRAS Score</summary>
+
+<!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/mabubu0203" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=3.48&i=3.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
+Last Updated on 1/18/2023, 10:33:59 AM
+<!--END_SECTION:lapras-card-->  
+  
+</details>
+  
 ## Personality
 
 | key          | value                                                                                 |
@@ -64,22 +93,3 @@ I'm good at Java.
 | 16Person     | [指揮官](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) |
 | エニアグラム | [忠実家](https://16test.uranaino.net/enneagram/type6/)                                |
 | エムグラム   |                                                                                       |
-
-## Counter
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mabubu0203/count.svg" />
-</p>
-
-
-## LAPRAS Score.
-
-<!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/mabubu0203" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=3.48&i=3.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 1/18/2023, 10:33:59 AM
-<!--END_SECTION:lapras-card-->
-
-## Other
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/mabubu0203/mabubu0203/master/img/snake.svg) 
