@@ -28,7 +28,7 @@ I'm good at Java.
   <source media="(prefers-color-scheme: light)" 
           srcset="img/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation"
-       height="150" 
+       height="100" 
        src="img/github-contribution-grid-snake.svg" />
 </picture>
 
@@ -36,18 +36,18 @@ I'm good at Java.
   
 <p align="left">   
   <img alt="mabubu0203's github stats"
-       height="150"
-       src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs" />
+       height="100"
+       src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
   <img alt="Most Used Languages"
-       hspace="15"
-       height="150" 
-       src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=6&hide=HTML&layout=compact" />
+       hspace="10"
+       height="100" 
+       src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=8&hide=HTML,XSLT,TSQL&layout=compact" />
 </p> 
 
 <p align="left"> 
   <img alt="mabubu0203's github trophy"
-       height="150"
-       src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=5&margin-w=15&margin-h=15" />
+       height="100"
+       src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=&margin-w=10&margin-h=10" />
 </p>
 
 ## Info
