@@ -15,7 +15,7 @@ I'm good at Java.
 
 ## Counter
 
-<p align="left"> 
+<p align="left">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mabubu0203/count.svg" />
 </p>
@@ -23,28 +23,28 @@ I'm good at Java.
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: dark)"
           srcset="img/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: light)"
           srcset="img/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation"
-       height="100" 
+       height="100"
        src="img/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Readme Stats & Profile Trophy
   
-<p align="left">   
+<p align="left">
   <img alt="mabubu0203's github stats"
        height="100"
        src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
   <img alt="Most Used Languages"
        hspace="10"
-       height="100" 
+       height="100"
        src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=8&hide=HTML,XSLT,TSQL&layout=compact" />
-</p> 
+</p>
 
-<p align="left"> 
+<p align="left">
   <img alt="mabubu0203's github trophy"
        height="100"
        src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=&margin-w=10&margin-h=10" />
@@ -91,5 +91,6 @@ Last Updated on 3/1/2023, 1:18:34 AM
 | key          | value                                                                                 |
 |--------------|---------------------------------------------------------------------------------------|
 | 16Person     | [指揮官](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) |
+| 16アニマ診断 | [ライオン型 (ENTJ)](https://test.16color.net/type/entj)                               |
 | エニアグラム | [忠実家](https://16test.uranaino.net/enneagram/type6/)                                |
 | エムグラム   |                                                                                       |
