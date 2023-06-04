@@ -1,8 +1,16 @@
 # Change Log
 
-## [0.35.04]() ()
+## [0.35.06]() ()
 
 * WIP
+
+## [0.35.05](https://gist.github.com/mabubu0203/23a0c0054cc6288923f02eb6e0d38916) (2023-06-01)
+
+* release_notes_ver-0_35_05.md
+
+## [0.35.04](https://gist.github.com/mabubu0203/cca2d4fdf35fd57f61648910b08eb33f) (2023-05-01)
+
+* release_notes_ver-0_35_04.md
 
 ## [0.35.03](https://gist.github.com/mabubu0203/ea20f5fd858acd5612dca01f3684f1e9) (2023-04-01)
 

@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "esbenp.prettier-vscode",
+    "github.vscode-github-actions",
     "mervin.markdown-formatter",
     "ms-ceintl.vscode-language-pack-ja"
   ]
