@@ -52,7 +52,7 @@ I'm good at Java.
 
 <p align="left">
   <img alt="mabubu0203's github Readme Streak Stats"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mabubu0203&" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=mabubu0203" />
 </p>
 
 ## Info
@@ -67,6 +67,8 @@ I'm good at Java.
 <!-- favorite_tools starts -->
 - JetBrains All Products Pack
 - VisualStudioCode
+- Cursor
+- Windsurf
 - SourceTree
 <!-- favorite_tools ends -->
 
@@ -101,7 +103,8 @@ Last Updated on 2/23/2025, 1:18:51 AM</p>
 
 ## Products
 
-| key                                                      | value                                                                        |
-|----------------------------------------------------------|------------------------------------------------------------------------------|
-| [Find MissingPets.jp](https://www.find-missing-pets.jp/) | AIとICTを駆使して日本国内の迷子のペットとの再会をサポートするサイト          |
-| [nekonare(仮)](https://nekonare.website/)                | 全国の猫ちゃんへの補助金や助成金や各種案内等をざっと眺めることができるサイト |
+| key                                                        | value                                                                        |
+|------------------------------------------------------------|------------------------------------------------------------------------------|
+| [nekonare PersonalSite](https://www.nekonare-personal.jp/) |                                                                              |
+| [Find MissingPets.jp](https://www.find-missing-pets.jp/)   | AIとICTを駆使して日本国内の迷子のペットとの再会をサポートするサイト          |
+| [nekonare(仮)](https://nekonare.website/)                  | 全国の猫ちゃんへの補助金や助成金や各種案内等をざっと眺めることができるサイト |
