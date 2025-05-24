@@ -97,6 +97,11 @@ Last Updated on 5/24/2025, 1:21:58 AM</p>
 <summary>Qiita Articles</summary>
 
 <!-- profile updater begin: qiita -->
+- Jun 24, **1 LGTM** [TypeScriptでライブラリを作成して別アプリから参照して使ってみた](https://qiita.com/mabubu0203/items/8492dc8301682e71a3ca)
+- Oct 4, **11 LGTM** [[個人開発]迷子ペットと飼い主の再会をサポートするサイトをリリースしました](https://qiita.com/mabubu0203/items/93c736a3c5b0f8d855df)
+- Mar 10, **4 LGTM** [[個人開発]猫に助成金・補助金を支出している自治体の情報を集めたサイトをリリースしました](https://qiita.com/mabubu0203/items/5dbd26691f743866b08d)
+- Jul 18 [Spring for GraphQL v1.0.0-M3 を使用してみての所感](https://qiita.com/mabubu0203/items/1d32ed56747c5e3b2e63)
+- Jul 18 [SpringData Elasticsearchでインデックスにエイリアスを貼る](https://qiita.com/mabubu0203/items/7892778585be55f485bf)
 <!-- profile updater end: qiita -->
 
 </details>
@@ -105,6 +110,11 @@ Last Updated on 5/24/2025, 1:21:58 AM</p>
 <summary>Zenn Articles</summary>
 
 <!-- profile updater begin: zenn -->
+- Oct 15 [(Web)API仕様書を作る理由](https://zenn.dev/mabubu0203/articles/6df9c9f292f3ee)
+- Oct 5 [開発者体験向上のために Raindrop.io を導入した](https://zenn.dev/mabubu0203/articles/ce1d4c469a7e3f)
+- Jul 18 [Mac Book のスペック比較(2022前半)](https://zenn.dev/mabubu0203/articles/3e67af02c1ce09)
+- Jul 18 [OpenAPIを棚卸しする(3.0.x)](https://zenn.dev/mabubu0203/articles/a34937c9d5892f)
+- Jul 17 [自己紹介](https://zenn.dev/mabubu0203/articles/f989fe670b08f9)
 <!-- profile updater end: zenn -->
 
 </details>
