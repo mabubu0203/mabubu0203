@@ -92,6 +92,22 @@ Last Updated on 5/24/2025, 1:21:58 AM</p>
 <!--END_SECTION:lapras-card-->  
   
 </details>
+
+<details>
+<summary>Qiita Articles</summary>
+
+<!-- profile updater begin: qiita -->
+<!-- profile updater end: qiita -->
+
+</details>
+
+<details>
+<summary>Zenn Articles</summary>
+
+<!-- profile updater begin: zenn -->
+<!-- profile updater end: zenn -->
+
+</details>
   
 ## Personality
 
