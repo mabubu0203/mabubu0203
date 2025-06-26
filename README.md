@@ -97,7 +97,7 @@ Last Updated on 6/26/2025, 12:20:33 AM</p>
 <summary>Qiita Articles</summary>
 
 <!-- profile updater begin: qiita -->
-- Jun 24, **1 LGTM** [TypeScriptでライブラリを作成して別アプリから参照して使ってみた](https://qiita.com/mabubu0203/items/8492dc8301682e71a3ca)
+- Jun 24, **2 LGTM** [TypeScriptでライブラリを作成して別アプリから参照して使ってみた](https://qiita.com/mabubu0203/items/8492dc8301682e71a3ca)
 - Oct 4, **11 LGTM** [[個人開発]迷子ペットと飼い主の再会をサポートするサイトをリリースしました](https://qiita.com/mabubu0203/items/93c736a3c5b0f8d855df)
 - Mar 10, **4 LGTM** [[個人開発]猫に助成金・補助金を支出している自治体の情報を集めたサイトをリリースしました](https://qiita.com/mabubu0203/items/5dbd26691f743866b08d)
 - Jul 18 [Spring for GraphQL v1.0.0-M3 を使用してみての所感](https://qiita.com/mabubu0203/items/1d32ed56747c5e3b2e63)
