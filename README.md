@@ -35,24 +35,29 @@ I'm good at Java.
 ## Readme Stats & Profile Trophy
   
 <p align="left">
-  <img alt="mabubu0203's github stats"
-       height="100"
-       src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dracula" />
-  <img alt="Most Used Languages"
-       hspace="10"
-       height="100"
-       src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=8&hide=HTML,XSLT,TSQL&layout=compact" />
+  <img
+    alt="mabubu0203's github stats"
+    height="140"
+    src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&rank_icon=percentile&theme=dracula" />
+  <img
+    alt="Most Used Languages"
+    hspace="10"
+    height="140"
+    src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&layout=compact&theme=dracula&langs_count=6&hide=HTML,XSLT,TSQL,CSS,Riot,Shell,JavaScript" />
 </p>
 
 <p align="left">
-  <img alt="mabubu0203's github trophy"
-       height="100"
-       src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&margin-w=10&margin-h=10&no-bg=true" />
+  <img
+    alt="mabubu0203's github trophy"
+    height="160"
+    src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,LongTimeUser,Commits,Repositories,Experience,Followers&row=2&column=4&margin-w=10&margin-h=10&no-bg=true" />
 </p>
 
 <p align="left">
-  <img alt="mabubu0203's github Readme Streak Stats"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mabubu0203" />
+  <img
+    alt="mabubu0203's github Readme Streak Stats"
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mabubu0203&theme=dracula" />
 </p>
 
 ## Info
