@@ -37,36 +37,17 @@ I'm good at Java.
 <p align="left">
   <img alt="mabubu0203's github stats"
        height="100"
-       src="https://github-readme-stats-mabubu0203.vercel.app/api
-          ?username=mabubu0203
-          &count_private=true
-          &include_all_commits=true
-          &show_icons=true
-          &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-          &rank_icon=percentile
-          &theme=dracula" />
+       src="https://github-readme-stats-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dracula" />
   <img alt="Most Used Languages"
        hspace="10"
        height="100"
-       src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/
-          ?username=mabubu0203
-          &theme=dracula
-          &langs_count=8
-          &hide=HTML,XSLT,TSQL
-          &layout=compact" />
+       src="https://github-readme-stats-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&theme=dracula&langs_count=8&hide=HTML,XSLT,TSQL&layout=compact" />
 </p>
 
 <p align="left">
   <img alt="mabubu0203's github trophy"
        height="100"
-       src="https://github-profile-trophy-mabubu0203.vercel.app/
-          ?username=mabubu0203
-          &theme=dracula
-          &rank=SECRET,SSS,SS,S,AAA,AA,A
-          &column=-1
-          &margin-w=10
-          &margin-h=10
-          &no-bg=true" />
+       src="https://github-profile-trophy-mabubu0203.vercel.app/?username=mabubu0203&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&margin-w=10&margin-h=10&no-bg=true" />
 </p>
 
 <p align="left">
