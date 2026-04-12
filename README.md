@@ -102,7 +102,7 @@ Last Updated on 4/12/2026, 12:34:56 AM</p>
 <summary>Qiita Articles</summary>
 
 <!-- profile updater begin: qiita -->
-- Mar 23, **1 LGTM** [[個人開発] GitHub Projects の初期構築・運用分析を自動化するツールキットをリリースしました](https://qiita.com/mabubu0203/items/41d590b3c127eebbb613)
+- Mar 23, **2 LGTM** [[個人開発] GitHub Projects の初期構築・運用分析を自動化するツールキットをリリースしました](https://qiita.com/mabubu0203/items/41d590b3c127eebbb613)
 - Jun 24, **3 LGTM** [TypeScriptでライブラリを作成して別アプリから参照して使ってみた](https://qiita.com/mabubu0203/items/8492dc8301682e71a3ca)
 - Oct 4, **11 LGTM** [[個人開発]迷子ペットと飼い主の再会をサポートするサイトをリリースしました](https://qiita.com/mabubu0203/items/93c736a3c5b0f8d855df)
 - Mar 10, **4 LGTM** [[個人開発]猫に助成金・補助金を支出している自治体の情報を集めたサイトをリリースしました](https://qiita.com/mabubu0203/items/5dbd26691f743866b08d)
