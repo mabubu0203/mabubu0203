@@ -33,17 +33,17 @@ I'm good at Java.
 </picture>
 
 ## Readme Stats & Profile Trophy
-  
+  <!-- https://github-stats-extended-mabubu0203.vercel.app/ -->
 <p align="left">
   <img
     alt="mabubu0203's github stats"
     height="140"
-    src="https://github-stats-extended-mabubu0203.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&rank_icon=percentile&theme=dracula" />
+    src="https://github-stats-extended.vercel.app/api?username=mabubu0203&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&rank_icon=percentile&theme=dracula" />
   <img
     alt="Most Used Languages"
     hspace="10"
     height="140"
-    src="https://github-stats-extended-mabubu0203.vercel.app/api/top-langs/?username=mabubu0203&layout=compact&theme=dracula&langs_count=6&hide=HTML,XSLT,TSQL,CSS,Riot,Shell,JavaScript" />
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mabubu0203&layout=compact&theme=dracula&langs_count=6&hide=HTML,XSLT,TSQL,CSS,Riot,Shell,JavaScript" />
 </p>
 
 <p align="left">
